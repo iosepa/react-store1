@@ -1,0 +1,8 @@
+{
+    "ecmaFeatures": {
+        "jsx": true
+    },
+    "files.associations": {
+        "*.js": "javascriptreact"
+    }
+}
